@@ -1,2 +1,2 @@
 # hello-github
- start of a journey on git hub
+ Graphical User Interface using Tkinter
